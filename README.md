@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0258-add-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Menahakumari/Leetcode_solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
