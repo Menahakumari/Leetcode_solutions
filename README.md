@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0012-integer-to-roman) |
+| [0141-linked-list-cycle](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0387-first-unique-character-in-a-string](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0031-next-permutation) |
+| [0141-linked-list-cycle](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Menahakumari/Leetcode_solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Matrix
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
