@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0031-next-permutation) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0561-array-partition](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [1051-height-checker](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1051-height-checker) |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
