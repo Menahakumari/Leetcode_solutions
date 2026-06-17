@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0205-isomorphic-strings](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0657-robot-return-to-origin](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0657-robot-return-to-origin) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Menahakumari/Leetcode_solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0739-daily-temperatures) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0561-array-partition) |
 ## Tree
 |  |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
