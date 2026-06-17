@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0228-summary-ranges) |
 | [0496-next-greater-element-i](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0739-daily-temperatures) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 ## Linked List
@@ -263,5 +265,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
