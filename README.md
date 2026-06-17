@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Menahakumari/Leetcode_solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Matrix
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
