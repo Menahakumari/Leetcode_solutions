@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0228-summary-ranges) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1051-height-checker) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2974-minimum-number-game](https://github.com/Menahakumari/Leetcode_solutions/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -277,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0901-online-stock-span) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
