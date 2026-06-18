@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [1046-last-stone-weight](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1550-three-consecutive-odds](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1550-three-consecutive-odds) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1046-last-stone-weight) |
 | [2974-minimum-number-game](https://github.com/Menahakumari/Leetcode_solutions/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
