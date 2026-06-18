@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -267,4 +269,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
