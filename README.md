@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Menahakumari/Leetcode_solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Menahakumari/Leetcode_solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Menahakumari/Leetcode_solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1046-last-stone-weight) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2974-minimum-number-game](https://github.com/Menahakumari/Leetcode_solutions/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0561-array-partition) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Tree
 |  |
 | ------- |
