@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0231-power-of-two](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0258-add-digits) |
+| [0973-k-closest-points-to-origin](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Menahakumari/Leetcode_solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Menahakumari/Leetcode_solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [0973-k-closest-points-to-origin](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0561-array-partition) |
+| [0973-k-closest-points-to-origin](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2974-minimum-number-game](https://github.com/Menahakumari/Leetcode_solutions/tree/master/2974-minimum-number-game) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1046-last-stone-weight) |
 | [2974-minimum-number-game](https://github.com/Menahakumari/Leetcode_solutions/tree/master/2974-minimum-number-game) |
 ## Two Pointers
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -293,4 +298,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
