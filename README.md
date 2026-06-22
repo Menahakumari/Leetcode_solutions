@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0078-subsets) |
 ## Bucket Sort
 |  |
