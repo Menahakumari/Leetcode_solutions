@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0933-number-of-recent-calls) |
 ## Quickselect
 |  |
 | ------- |
