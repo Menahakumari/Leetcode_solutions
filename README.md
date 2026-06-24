@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0258-add-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
@@ -370,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
