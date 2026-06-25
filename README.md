@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0657-robot-return-to-origin](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0657-robot-return-to-origin) |
+| [1143-longest-common-subsequence](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Menahakumari/Leetcode_solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Menahakumari/Leetcode_solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
