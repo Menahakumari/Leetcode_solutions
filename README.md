@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0322-coin-change) |
 ## Database
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 ## Bit Manipulation
