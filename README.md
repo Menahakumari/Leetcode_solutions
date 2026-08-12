@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0118-pascals-triangle) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Menahakumari/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 ## Stack
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0101-symmetric-tree) |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Menahakumari/Leetcode_solutions/tree/master/0079-word-search) |
 ## Bucket Sort
 |  |
 | ------- |
